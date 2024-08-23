@@ -1,2 +1,2 @@
 # rust-new-project-template
-This repository is created as template for Rust projects
+This repository is created as a template for Rust projects.
